@@ -2,7 +2,7 @@ dynamicg-timerec-translation
 ============================
   That repo is GitHub clone of SVN repo http://dynamicg-timerec.googlecode.com/svn/trunk/ (cloned by http://svn2github.com/)
   <h2>
-  <b>my  goal is to localize TimeRecording strings.xml from english version to russian</b></h2> 
+  <b>my  goal is to localize TimeRecording from english version to russian</b></h2> 
     <i> Manage your timesheet.
 
   Basic functionality:
@@ -34,7 +34,7 @@ dynamicg-timerec-translation
   https://www.google.com/?gws_rd=ssl#newwindow=1&q=time+recording+app+android 
 
   
-  there are  about 617 entries localized for the moment to de, es, pt, it, fr, ja, cn  locales
+  there are  about 550 entries localized for the moment to de, es, pt, it, fr, ja, cn  locales
   help to translate one of the most popular android time tracking  project to your native language
 
 
